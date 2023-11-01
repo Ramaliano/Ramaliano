@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, o meu nome é Ramaliano Sanca</h1>
 <h3 align="center">Analista de Dados e apaixonado por tecnologia</h3>
 
-- 🔭Atualmente, estou desenvolvendo projetos pessoal **análise de dados**
+- 🔭Atualmente, estou desenvolvendo projetos pessoal em **análise de dados**
 
 - 🌱Atualmente, estou aprendendo **Power BI, SQL e Python**
 
