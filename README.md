@@ -3,8 +3,6 @@
 
 - 🔭Atualmente, estou desenvolvendo projetos pessoal em **análise de dados**
 
-- 🌱
-
 - 👯 Também estou compartilhando conteúdos no [LinkedIn](https://www.linkedin.com/in/ramaliano-sanca-313940117/)
 
 - 💬 Me pergunte sobre **Power BI, SQL, Banco de Dados, Python e Excel**
