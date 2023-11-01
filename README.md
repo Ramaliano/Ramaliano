@@ -3,7 +3,7 @@
 
 - 🔭Atualmente, estou desenvolvendo projetos pessoal em **análise de dados**
 
-- 🌱Atualmente, estou aprendendo **Power BI, SQL e Python**
+- 🌱
 
 - 👯 Também estou compartilhando conteúdos no [LinkedIn](https://www.linkedin.com/in/ramaliano-sanca-313940117/)
 
